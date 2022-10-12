@@ -11,7 +11,7 @@
   "dependencies": {
     "protractor": "^5.2.2",
     "jasmine-matchers": "^0.2.3",
-    "jasmine-reporters": "^2.3.0"
+    "jasmine-reporters": "^2.5.0"
   },
   "engines": {
     "node": ">=8.0.0"
